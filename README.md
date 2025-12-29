@@ -55,8 +55,8 @@ https://github.com/AnjaliPanduga/Avocado-Price-Prediction-Using-Machine-Learning
 ---
 
 ## 🤝 Let’s Connect
-- 📧 Email: *(add your email here)*  
-- 💼 LinkedIn: *(add your LinkedIn profile link)*  
+- 📧 Email: pandugaanjali2003@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/anjali-panduga-88935a266/
 - 🐙 GitHub: https://github.com/AnjaliPanduga  
 
 ---
