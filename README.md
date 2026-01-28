@@ -122,4 +122,4 @@ https://github.com/AnjaliPanduga/student-registration-dual-app
 
 ---
 
-⭐ *I am actively looking for opportunities as a Data Analyst / Data Scientist (Fresher).*  
+⭐ *I am actively looking for opportunities as aData Scientist / Data Analyst (Fresher).*  
