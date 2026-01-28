@@ -105,6 +105,7 @@ https://github.com/AnjaliPanduga/Customer-Churn-Prediction-
 
 🔗 **Project Link:** 
 https://github.com/AnjaliPanduga/student-registration-dual-app
+
 ---
 
 ## 🎯 What I’m Currently Learning
