@@ -59,7 +59,6 @@ I have hands-on experience in:
 - MySQL
 
 ### Statistics
-Statistics:
 - Descriptive Statistics (mean, median, variance, standard deviation)
 - Probability & Distributions (normal, binomial, poisson)
 - Inferential Statistics (hypothesis testing, confidence intervals)
