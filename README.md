@@ -70,6 +70,7 @@ Statistics:
 ---
 
 ## 📊 Projects
+
 ### Student Marks Prediction Using Machine Learning & Flask
 
 - Developed a Machine Learning regression model to predict student marks based on daily study hours.
@@ -94,12 +95,23 @@ https://github.com/AnjaliPanduga/Student-Marks-Prediction-
 🔗 **Project Link:** 
 https://github.com/AnjaliPanduga/Customer-Churn-Prediction-
 
+### Student Registration Dual App (Python, Tkinter & Streamlit)
+
+- Developed a Student Registration System with both desktop (Tkinter) and web (Streamlit) interfaces to manage student data using Python and MySQL.
+- Implemented CRUD operations (Create, Read, Update, Delete) for student records with real-time search and filtering functionality.
+- Integrated MySQL database for structured data storage and executed SQL queries for efficient data manipulation.
+- Designed intuitive GUI (Tkinter) for desktop users and an interactive web UI (Streamlit) for browser-based access.
+- Added export and download features for data reporting, enabling CSV export for external analysis.
+- Demonstrated effective use of SQL database design and Python application development in a real-world system.
+
+🔗 **Project Link:** 
+https://github.com/AnjaliPanduga/student-registration-dual-app
 ---
 
 ## 🎯 What I’m Currently Learning
-- Advanced Machine Learning  
-- SQL for Data Analytics  
-- Data Visualization & Dashboards  
+- NLP 
+- Deep Learning
+- Arfificial Intelligent   
 
 ---
 
