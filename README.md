@@ -82,9 +82,6 @@ I have hands-on experience in:
 🔗 **Project Link:**  
 https://github.com/AnjaliPanduga/Student-Marks-Prediction-
 
-🔗 **Live Demo:**
-
-
 ### Customer Churn Prediction Using Machine Learning
 
 - Built a machine learning classification model to predict customer churn for business retention analysis.
